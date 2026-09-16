@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Revit AI Assistant</Name>
+    <Assembly>AIAssistant\AIRevitAddin.dll</Assembly>
+    <ClientId>EB0B1C0A-7647-4F22-B20B-7073849C04ED</ClientId> <!-- Fixed GUID -->
+    <FullClassName>AIRevitAddin.App</FullClassName>
+    <VendorId>com.revit.ai</VendorId>
+    <VendorDescription>Revit AI Assistant</VendorDescription>
+  </AddIn>
+</RevitAddIns>
