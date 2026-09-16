@@ -1,4 +1,4 @@
-﻿# Revit AI Assistant - Releases & Installation
+# Revit AI Assistant - Releases & Installation
 # מאגר קבצי התקנה - עוזר AI לרוויט
 
 <div dir="rtl" align="right">
@@ -38,13 +38,5 @@
 - **הרצת סקריפטים וקוד C# ברוויט** עם תיקון שגיאות אוטומטי (Auto-Fix).
 - **תמיכה בריבוי טאבים של שיחות (Multi-Chat Tabs).**
 - **תמיכה בחיפוש בזמן אמת באינטרנט וב-MCP Bridge.**
-
----
-
-### 🛠️ בניית קובץ ההתקנה ממקור (למפתחים)
-
-מאגר זה כולל את קובץ התסריט של Inno Setup:
-- `setup.iss` – תסריט ההתקנה של Inno Setup 6.
-- `build_installer.bat` – סקריפט אוטומטי המאתר את `ISCC.exe` ומקמפל את קובץ ה-EXE.
 
 </div>
